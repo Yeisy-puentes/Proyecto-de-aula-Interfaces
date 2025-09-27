@@ -1,1 +1,55 @@
-# Proyecto-de-aula-Interfaces
+# Proyecto-de-aula-Interfaces[agencia.html](https://github.com/user-attachments/files/22570105/agencia.html)
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verde Tatacoa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #2ecc71;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 48px;
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        h2 {
+            color: #2ecc71;
+            font-size: 28px;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>VERDE TATACOA</h1>
+    </header>
+    <div class="container">
+        <h2>1. Ruta al Sur</h2>
+        <p>Explora los paisajes únicos del sur, donde la naturaleza y la aventura se encuentran. Descubre senderos, cascadas y comunidades llenas de historia.</p>
+        
+        <h2>2. Costa</h2>
+        <p>Disfruta de las playas vírgenes y el encanto del mar en la costa. Perfecto para relajarte o practicar deportes acuáticos bajo el sol tropical.</p>
+        
+        <h2>3. Eje Cafetero</h2>
+        <p>Sumérgete en la cultura del café, con fincas tradicionales, montañas verdes y experiencias auténticas en el corazón de Colombia.</p>
+    </div>
+</body>
+</html>
+
